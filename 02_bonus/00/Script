@@ -1,0 +1,2 @@
+docker build -t 00 .
+docker run --rm 00
